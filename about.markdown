@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-![alt text](/assets/images/about_1.jpg)
+![alt text](/assets/images/Hydraulis_001.jpeg)
 

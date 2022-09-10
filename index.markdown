@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-The flow of life.
