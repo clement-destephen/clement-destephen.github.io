@@ -3,6 +3,7 @@ layout: post
 title:  "Harmonic Monochord"
 date:   2022-09-01 23:28:40 +0200
 categories: instrument building
+visible: 1
 ---
 
 <audio src="/assets/sounds/ZOOM0035.mp3" autoplay></audio>
