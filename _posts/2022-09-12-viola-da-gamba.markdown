@@ -3,7 +3,7 @@ layout: post
 title:  "Alto Viola da Gamba"
 date:   2022-09-12 00:08:40 +0200
 categories: instrument building
-visible: 0
+visible: 1
 ---
 
 A few years ago I started building a Viola da Gamba under the guidance of [Gesina Liedmeier](https://www.liedmeier.nl/home).
