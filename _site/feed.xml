@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-09-18T18:02:03+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-12T00:08:40+02:00</published><updated>2022-09-12T00:08:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-09-30T22:49:56+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-12T00:08:40+02:00</published><updated>2022-09-12T00:08:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The original model is from a 1667 Alt-viola from Henry Jaye.&lt;/p&gt;
+&lt;p&gt;The original model is from a 1629 (1667 ?) Alto viola from Henry Jaye.&lt;/p&gt;
 
 &lt;style&gt;
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -231,7 +231,7 @@
     
 &lt;/ul&gt;
 
-&lt;p&gt;This project has been absolutely incredible on many levels, from learning the tools and techniques used to build such instruments, to the very long discussions and experiments about acoustics.&lt;/p&gt;
+&lt;p&gt;According to its dimensions, it could also be considered a big Treble viola.&lt;/p&gt;
 
 &lt;style&gt;
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -1752,11 +1752,12 @@
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;With this instrument it is possible to play the first 16 harmonics of the string individually, and up to 5 at the same time.&lt;/p&gt;
+&lt;p&gt;This instrument makes it possible to play the first 16 string harmonics individually, and up to 5 at the same time.&lt;/p&gt;
 
-&lt;p&gt;The intensity of each harmonic is changed by sliding your fingers on the small copper half-circles.&lt;/p&gt;
+&lt;p&gt;The intensity of each harmonic is changed by sliding your fingers on the small copper elements.&lt;/p&gt;
 
-&lt;p&gt;The vibrations of the string are further amplified by a small wooden resonator made with flame maple and beech. The resulting sound is purely acoustic, not involving any pickup system.&lt;/p&gt;
+&lt;p&gt;The string vibrations are further amplified by a wooden resonator made with flame maple and beech.
+The sound is purely acoustic, not involving any pickup system.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -1774,16 +1775,22 @@
 
 &lt;p&gt;&lt;strong&gt;How it works&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&quot;/assets/images/monochord_5.png&quot; alt=&quot;alt text&quot; title=&quot;monochord pic 5&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It is using simple pulse-width modulated electric signals, unlike the feedback-loop based well-kown E-bows. The PWM signals are generated with a microcontroller and amplified with Mosfets.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;The string itself can be tuned via a combination of a piano peg and a violin fine-tuner.
-In order to accomodate for the string natural inharmonicity, the individual frequencies of the electromagnet’s waves can be further detuned via potentiometers.&lt;/p&gt;
+&lt;p&gt;The electromagnets are driven by pulse-width modulated signals. The concept here is different from the  well-kown E-bows, which are using a feedback-loop. There are a few benefits from using a direct PWM excitation :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the string enters much faster in resonance&lt;/li&gt;
+  &lt;li&gt;the string can vibrate at potentially any of its resonance mode or any combination of modes.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;All electronics are inside and it can be powered by an external 15V batterie / AC adapter.&lt;/p&gt;
+&lt;p&gt;The downside being of course that the frequencies must be known by the system, hence the dedicated tuning knobs.
+There is one fine-tuning potentiometer per harmonic. They allow a slight detuning of each PWM wave, in order to accomodate for the string natural inharmonicity.&lt;/p&gt;
+
+&lt;p&gt;The string itself can be tuned via two pegs, one for coarse and one for fine tuning.&lt;/p&gt;
+
+&lt;p&gt;The instrument needs to be powered by an external 15V batterie / AC adapter.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 

@@ -22,11 +22,12 @@ I was wondering if it was possible to make a string vibrate at its harmonic freq
 
 <p>&nbsp;</p>
 
-With this instrument it is possible to play the first 16 harmonics of the string individually, and up to 5 at the same time.
+This instrument makes it possible to play the first 16 string harmonics individually, and up to 5 at the same time.
 
-The intensity of each harmonic is changed by sliding your fingers on the small copper half-circles.
+The intensity of each harmonic is changed by sliding your fingers on the small copper elements.
 
-The vibrations of the string are further amplified by a small wooden resonator made with flame maple and beech. The resulting sound is purely acoustic, not involving any pickup system.
+The string vibrations are further amplified by a wooden resonator made with flame maple and beech.
+The sound is purely acoustic, not involving any pickup system.
 
 <p>&nbsp;</p>
 
@@ -44,16 +45,20 @@ A few recordings :
 
 **How it works**
 
-<p>&nbsp;</p>
-
 ![alt text](/assets/images/monochord_5.png "monochord pic 5")
 
-It is using simple pulse-width modulated electric signals, unlike the feedback-loop based well-kown E-bows. The PWM signals are generated with a microcontroller and amplified with Mosfets.
+<p>&nbsp;</p>
 
-The string itself can be tuned via a combination of a piano peg and a violin fine-tuner.
-In order to accomodate for the string natural inharmonicity, the individual frequencies of the electromagnet's waves can be further detuned via potentiometers.
+The electromagnets are driven by pulse-width modulated signals. The concept here is different from the  well-kown E-bows, which are using a feedback-loop. There are a few benefits from using a direct PWM excitation :
+- the string enters much faster in resonance
+- the string can vibrate at potentially any of its resonance mode or any combination of modes.
 
-All electronics are inside and it can be powered by an external 15V batterie / AC adapter.
+The downside being of course that the frequencies must be known by the system, hence the dedicated tuning knobs.
+There is one fine-tuning potentiometer per harmonic. They allow a slight detuning of each PWM wave, in order to accomodate for the string natural inharmonicity.
+
+The string itself can be tuned via two pegs, one for coarse and one for fine tuning.
+
+The instrument needs to be powered by an external 15V batterie / AC adapter.
 
 <p>&nbsp;</p>
 
