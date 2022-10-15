@@ -27,6 +27,7 @@ url: "https://www.clementdestephen.com" # the base hostname & protocol for your 
 twitter_username: 
 github_username:  clement-destephen
 soundcloud_username: clementdestephen
+linkedin_username: clement-destephen
 markdown: kramdown
 
 # Build settings

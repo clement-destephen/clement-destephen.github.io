@@ -9,10 +9,9 @@ visible: 1
 A few years ago I started building a Viola da Gamba under the guidance of [Gesina Liedmeier](https://www.liedmeier.nl/home).
 
 The original model is from a 1629 (1667 ?) Alto viola from Henry Jaye.
-
-{% include image-gallery.html folder="/assets/images/viole/group_1" %}
-
 According to its dimensions, it could also be considered a big Treble viola.
+
+{% include image-gallery.html folder="/assets/images/viole/0_plan" %}
 
 
 {% include image-gallery.html folder="/assets/images/viole/group_2" %}
