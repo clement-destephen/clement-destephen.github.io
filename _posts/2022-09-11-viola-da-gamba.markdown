@@ -67,7 +67,11 @@ The black line underlining the top plate's outline is added :
 
 {% include image-gallery.html folder="/assets/images/viole/8_purflings" %}
 
+<p>&nbsp;</p>
+
 To be continued...
+
+<p>&nbsp;</p>
 
 {% include image-gallery.html folder="/assets/images/viole/various" %}
 
