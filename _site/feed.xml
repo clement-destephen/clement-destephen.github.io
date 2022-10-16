@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-10-16T20:46:31+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:08:40+02:00</published><updated>2022-09-11T00:08:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-10-16T21:38:31+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The original model is from a 1629 Alto viola from the reknowned british maker Henry Jaye.&lt;/p&gt;
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -305,16 +308,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -604,16 +610,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -892,16 +901,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -1193,16 +1205,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -1492,16 +1507,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -1791,16 +1809,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -2090,16 +2111,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -2389,16 +2413,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -2677,16 +2704,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -2976,16 +3006,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -3275,16 +3308,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -3576,16 +3612,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;
@@ -3853,16 +3892,19 @@
 
 &lt;style&gt;
     .image-gallery {
-        overflow: auto;
-        margin-left: -1%!important;
         display: flex;
-        justify-content:center;
-        /* margin: 1em; */
+        flex-wrap:wrap;
+        white-space: nowrap;
+        overflow-x:auto;
+        justify-content: space-around;
     }
+    .item:first-child {margin-left: auto;}
+    .item:last-child {margin-right: auto;}
     .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
+    
 &lt;/style&gt;
 
 &lt;ul class=&quot;image-gallery&quot;&gt;

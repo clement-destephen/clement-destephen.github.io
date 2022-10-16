@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alto Viola da Gamba"
-date:   2022-09-11 00:08:40 +0200
+date:   2022-09-11
 categories: instrument building
 visible: 1
 ---
