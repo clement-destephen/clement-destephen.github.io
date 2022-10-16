@@ -27,7 +27,7 @@ There are various techniques to give the front plate its shape, according to the
 
 {% include image-gallery.html folder="/assets/images/viole/2_front_plates" %}
 
-Glueing the pieces together is made with a special mixture of hide/fish glue, sometimes involving boiling the wood pieces in water, like for the plates or just bringing them to a higher temperature.
+Glueing the pieces together is made with a special mixture of hide/fish glue, sometimes involving boiling the wood pieces in water or just bringing them to a higher temperature.
 
 After that, a lot of time is spent planing the plates, measuring their thickness in order to match the historical model. 
 
@@ -45,7 +45,7 @@ The ribs are then prepared and dry-bent with a bending iron. The shape has to ma
 
 {% include image-gallery.html folder="/assets/images/viole/4_a_ribs_bending" %}
 
-The neck/head is then carefully assembed to the ribs. It's overall alignment is crucial for the instrument's quality.
+The neck/head is then carefully assembed to the ribs. Its overall alignment is crucial for the instrument's quality.
 
 {% include image-gallery.html folder="/assets/images/viole/4_b_neck_junction" %}
 
@@ -62,6 +62,8 @@ The fingerboard and tailpiece are then prepared. Again, the exact curvature has 
 {% include image-gallery.html folder="/assets/images/viole/7_fingerboard_tailpiece" %}
 
 The extremities of the front plate are then prepared for the purflings. 
+
+The black line underlining the top plate's outline is added :
 
 {% include image-gallery.html folder="/assets/images/viole/8_purflings" %}
 

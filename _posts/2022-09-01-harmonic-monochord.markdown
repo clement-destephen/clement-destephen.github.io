@@ -6,8 +6,6 @@ categories: instrument building
 visible: 1
 ---
 
-<audio src="/assets/sounds/ZOOM0035.mp3" autoplay></audio>
-
 ![alt text](/assets/images/monochord_1.png "monochord pic 1")
 
 <p>&nbsp;</p>

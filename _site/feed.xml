@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-10-16T19:33:03+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-12T00:08:40+02:00</published><updated>2022-09-12T00:08:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-10-16T20:31:05+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-12T00:08:40+02:00</published><updated>2022-09-12T00:08:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/12/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The original model is from a 1629 Alto viola from the reknowned british maker Henry Jaye.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -289,12 +295,6 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;According to its dimensions, it could also be considered a big Treble viola.&lt;/p&gt;
@@ -302,8 +302,14 @@
 &lt;p&gt;I started with the viol’s pegbox, carving out with chisels the main volumes and preparing a pattern for the scroll.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -588,19 +594,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;Parallelly, the wood plates for the top (3 pieces) and the back (2 pieces) were cut to dimensions and planed. Spruce is used for the top plate and flamed maple for the back plate, as well as for the ribs.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -874,19 +880,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;There are various techniques to give the front plate its shape, according to the time in history and countries. For this model, I first pre-bent the 3 plates and then proceeded with carving.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -1171,21 +1177,21 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
-&lt;p&gt;Glueing the pieces together is made with a special mixture of hide/fish glue, sometimes involving boiling the wood pieces in water, like for the plates or just bringing them to a higher temperature.&lt;/p&gt;
+&lt;p&gt;Glueing the pieces together is made with a special mixture of hide/fish glue, sometimes involving boiling the wood pieces in water or just bringing them to a higher temperature.&lt;/p&gt;
 
 &lt;p&gt;After that, a lot of time is spent planing the plates, measuring their thickness in order to match the historical model.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -1470,19 +1476,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;The C-holes are carved with knives, and the inside of the top plate is also carved. At that point a small accident happened and I got an insight into restoration techniques.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -1767,19 +1773,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;The back plate has additional reinforcing bars which are influencing its strength and flexibility.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -2064,19 +2070,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;The ribs are then prepared and dry-bent with a bending iron. The shape has to match exactly the one from the plates, which makes it an especially challenging but also very rewarding process. While bending the wood, one must beware of maintening the right humidity level else it just cracks!&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -2361,19 +2367,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
-&lt;p&gt;The neck/head is then carefully assembed to the ribs. It’s overall alignment is crucial for the instrument’s quality.&lt;/p&gt;
+&lt;p&gt;The neck/head is then carefully assembed to the ribs. Its overall alignment is crucial for the instrument’s quality.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -2647,19 +2653,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;After adding the bassbar to the back of the front plate, which is going to participate in the mechanism of propagating the bridge vibrations to the rest of the body, some linen cloth bands are added inside the box to make the structure stronger.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -2944,19 +2950,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;Finally, the front is glued in place.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -3241,19 +3247,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;The fingerboard and tailpiece are then prepared. Again, the exact curvature has to be attained, which is a work of patience and precision.&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -3538,19 +3544,21 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;The extremities of the front plate are then prepared for the purflings.&lt;/p&gt;
 
+&lt;p&gt;The black line underlining the top plate’s outline is added :&lt;/p&gt;
+
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -3813,19 +3821,19 @@
     
         
     
-        
-    
-        
-    
-        
-    
 &lt;/ul&gt;
 
 &lt;p&gt;To be continued…&lt;/p&gt;
 
 &lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery {
+        overflow: auto;
+        /* margin-left: -1%!important; */
+        display: flex;
+        justify-content:center;
+        /* margin: 1em; */
+    }
+    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
     .image-gallery li a img {width: 100%; display: block;}
@@ -4006,19 +4014,6 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181211_130522.jpg&quot; title=&quot;IMG_20181211_130522&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181211_130522.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_130522&quot; title=&quot;IMG_20181211_130522&quot; /&gt;
-                    &lt;/a&gt;
-                &lt;/li&gt;
-            
-        
-    
-        
-            
-            
-                
-                
-                
                 &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181213_230408.jpg&quot; title=&quot;IMG_20181213_230408&quot;&gt;
                     &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181213_230408.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_230408&quot; title=&quot;IMG_20181213_230408&quot; /&gt;
                     &lt;/a&gt;
@@ -4149,34 +4144,8 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5271.JPG&quot; title=&quot;IMG_5271&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5271.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5271&quot; title=&quot;IMG_5271&quot; /&gt;
-                    &lt;/a&gt;
-                &lt;/li&gt;
-            
-        
-    
-        
-            
-            
-                
-                
-                
                 &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5277.JPG&quot; title=&quot;IMG_5277&quot;&gt;
                     &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5277.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5277&quot; title=&quot;IMG_5277&quot; /&gt;
-                    &lt;/a&gt;
-                &lt;/li&gt;
-            
-        
-    
-        
-            
-            
-                
-                
-                
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_6671.JPG&quot; title=&quot;IMG_6671&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_6671.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6671&quot; title=&quot;IMG_6671&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4259,9 +4228,7 @@
     
         
     
-&lt;/ul&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">A few years ago I started building a Viola da Gamba under the guidance of Gesina Liedmeier.</summary></entry><entry><title type="html">Integrating FPGAs</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html" rel="alternate" type="text/html" title="Integrating FPGAs" /><published>2022-09-02T00:00:00+02:00</published><updated>2022-09-02T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html">&lt;p&gt;~ under construction ~&lt;/p&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">~ under construction ~</summary></entry><entry><title type="html">Harmonic Monochord</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html" rel="alternate" type="text/html" title="Harmonic Monochord" /><published>2022-09-01T23:28:40+02:00</published><updated>2022-09-01T23:28:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html">&lt;audio src=&quot;/assets/sounds/ZOOM0035.mp3&quot; autoplay=&quot;&quot;&gt;&lt;/audio&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/monochord_1.png&quot; alt=&quot;alt text&quot; title=&quot;monochord pic 1&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">A few years ago I started building a Viola da Gamba under the guidance of Gesina Liedmeier.</summary></entry><entry><title type="html">Integrating FPGAs</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html" rel="alternate" type="text/html" title="Integrating FPGAs" /><published>2022-09-02T00:00:00+02:00</published><updated>2022-09-02T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html">&lt;p&gt;~ under construction ~&lt;/p&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">~ under construction ~</summary></entry><entry><title type="html">Harmonic Monochord</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html" rel="alternate" type="text/html" title="Harmonic Monochord" /><published>2022-09-01T23:28:40+02:00</published><updated>2022-09-01T23:28:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html">&lt;p&gt;&lt;img src=&quot;/assets/images/monochord_1.png&quot; alt=&quot;alt text&quot; title=&quot;monochord pic 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
