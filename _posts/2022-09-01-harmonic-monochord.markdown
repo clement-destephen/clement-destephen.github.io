@@ -32,10 +32,15 @@ The sound is purely acoustic, not involving any pickup system.
 A few recordings : 
 
 <audio src="/assets/sounds/ZOOM0031.mp3" controls></audio>
+
 <audio src="/assets/sounds/ZOOM0032.mp3" controls></audio>
+
 <audio src="/assets/sounds/ZOOM0033.mp3" controls></audio>
+
 <audio src="/assets/sounds/ZOOM0034.mp3" controls></audio>
+
 <audio src="/assets/sounds/ZOOM0035.mp3" controls></audio>
+
 <audio src="/assets/sounds/ZOOM0036.mp3" controls></audio>
 
 <p>&nbsp;</p>
