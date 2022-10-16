@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-10-16T23:09:28+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-10-17T00:58:04+02:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The original model is from a 1629 Alto viola from the reknowned british maker Henry Jaye.&lt;/p&gt;
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -53,13 +58,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/0.jpg&quot; title=&quot;0&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/0.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;0&quot; title=&quot;0&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/0.jpg&quot; title=&quot;0&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/0.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;0&quot; title=&quot;0&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -71,8 +77,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_224841.jpg&quot; title=&quot;IMG_20180216_224841&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_224841.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_224841&quot; title=&quot;IMG_20180216_224841&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_224841.jpg&quot; title=&quot;IMG_20180216_224841&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_224841.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_224841&quot; title=&quot;IMG_20180216_224841&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -84,8 +89,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_224917.jpg&quot; title=&quot;IMG_20180216_224917&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_224917.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_224917&quot; title=&quot;IMG_20180216_224917&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_224917.jpg&quot; title=&quot;IMG_20180216_224917&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_224917.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_224917&quot; title=&quot;IMG_20180216_224917&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -97,8 +101,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_224954.jpg&quot; title=&quot;IMG_20180216_224954&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_224954.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_224954&quot; title=&quot;IMG_20180216_224954&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_224954.jpg&quot; title=&quot;IMG_20180216_224954&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_224954.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_224954&quot; title=&quot;IMG_20180216_224954&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -110,8 +113,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_225011.jpg&quot; title=&quot;IMG_20180216_225011&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_225011.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_225011&quot; title=&quot;IMG_20180216_225011&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/0_plan/IMG_20180216_225011.jpg&quot; title=&quot;IMG_20180216_225011&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/0_plan/IMG_20180216_225011.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180216_225011&quot; title=&quot;IMG_20180216_225011&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -307,16 +309,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -366,13 +373,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/P1070015.JPG&quot; title=&quot;P1070015&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/P1070015.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070015&quot; title=&quot;P1070015&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/P1070015.JPG&quot; title=&quot;P1070015&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/P1070015.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070015&quot; title=&quot;P1070015&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -384,8 +392,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/P1070016.JPG&quot; title=&quot;P1070016&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/P1070016.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070016&quot; title=&quot;P1070016&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/P1070016.JPG&quot; title=&quot;P1070016&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/P1070016.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070016&quot; title=&quot;P1070016&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -397,8 +404,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/P1070166.JPG&quot; title=&quot;P1070166&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/P1070166.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070166&quot; title=&quot;P1070166&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/P1070166.JPG&quot; title=&quot;P1070166&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/P1070166.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070166&quot; title=&quot;P1070166&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -410,8 +416,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/QIMG_4715.JPG&quot; title=&quot;QIMG_4715&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/QIMG_4715.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4715&quot; title=&quot;QIMG_4715&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/QIMG_4715.JPG&quot; title=&quot;QIMG_4715&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/QIMG_4715.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4715&quot; title=&quot;QIMG_4715&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -423,8 +428,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/QIMG_4727.JPG&quot; title=&quot;QIMG_4727&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/QIMG_4727.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4727&quot; title=&quot;QIMG_4727&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_a_head/QIMG_4727.JPG&quot; title=&quot;QIMG_4727&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_a_head/QIMG_4727.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4727&quot; title=&quot;QIMG_4727&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -608,16 +612,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -677,13 +686,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/IMG_4728.JPG&quot; title=&quot;IMG_4728&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/IMG_4728.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4728&quot; title=&quot;IMG_4728&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/IMG_4728.JPG&quot; title=&quot;IMG_4728&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/IMG_4728.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4728&quot; title=&quot;IMG_4728&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -695,8 +705,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/IMG_5230.JPG&quot; title=&quot;IMG_5230&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/IMG_5230.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5230&quot; title=&quot;IMG_5230&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/IMG_5230.JPG&quot; title=&quot;IMG_5230&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/IMG_5230.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5230&quot; title=&quot;IMG_5230&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -708,8 +717,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/QIMG_4713.JPG&quot; title=&quot;QIMG_4713&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/QIMG_4713.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4713&quot; title=&quot;QIMG_4713&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/QIMG_4713.JPG&quot; title=&quot;QIMG_4713&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/QIMG_4713.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4713&quot; title=&quot;QIMG_4713&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -721,8 +729,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/QIMG_4714.JPG&quot; title=&quot;QIMG_4714&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/QIMG_4714.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4714&quot; title=&quot;QIMG_4714&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/1_b_plates/QIMG_4714.JPG&quot; title=&quot;QIMG_4714&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/1_b_plates/QIMG_4714.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;QIMG_4714&quot; title=&quot;QIMG_4714&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -898,16 +905,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -975,13 +987,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/IMG_4718.JPG&quot; title=&quot;IMG_4718&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/IMG_4718.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4718&quot; title=&quot;IMG_4718&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/IMG_4718.JPG&quot; title=&quot;IMG_4718&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/IMG_4718.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4718&quot; title=&quot;IMG_4718&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -993,8 +1006,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/kIMG_4089-MED.jpg&quot; title=&quot;kIMG_4089-MED&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/kIMG_4089-MED.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;kIMG_4089-MED&quot; title=&quot;kIMG_4089-MED&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/kIMG_4089-MED.jpg&quot; title=&quot;kIMG_4089-MED&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/kIMG_4089-MED.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;kIMG_4089-MED&quot; title=&quot;kIMG_4089-MED&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1006,8 +1018,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/plates_1.jpg&quot; title=&quot;plates_1&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/plates_1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plates_1&quot; title=&quot;plates_1&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/plates_1.jpg&quot; title=&quot;plates_1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/plates_1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plates_1&quot; title=&quot;plates_1&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1019,8 +1030,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/plates_2.jpg&quot; title=&quot;plates_2&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/plates_2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plates_2&quot; title=&quot;plates_2&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/plates_2.jpg&quot; title=&quot;plates_2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/plates_2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plates_2&quot; title=&quot;plates_2&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1032,8 +1042,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/plates_3.JPG&quot; title=&quot;plates_3&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/plates_3.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plates_3&quot; title=&quot;plates_3&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/2_front_plates/plates_3.JPG&quot; title=&quot;plates_3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/2_front_plates/plates_3.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plates_3&quot; title=&quot;plates_3&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1201,16 +1210,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -1288,13 +1302,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6670.JPG&quot; title=&quot;IMG_6670&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6670.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6670&quot; title=&quot;IMG_6670&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6670.JPG&quot; title=&quot;IMG_6670&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6670.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6670&quot; title=&quot;IMG_6670&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1306,8 +1321,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6671.JPG&quot; title=&quot;IMG_6671&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6671.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6671&quot; title=&quot;IMG_6671&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6671.JPG&quot; title=&quot;IMG_6671&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6671.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6671&quot; title=&quot;IMG_6671&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1319,8 +1333,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6677.JPG&quot; title=&quot;IMG_6677&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6677.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6677&quot; title=&quot;IMG_6677&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6677.JPG&quot; title=&quot;IMG_6677&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6677.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6677&quot; title=&quot;IMG_6677&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1332,8 +1345,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6678.JPG&quot; title=&quot;IMG_6678&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6678.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6678&quot; title=&quot;IMG_6678&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6678.JPG&quot; title=&quot;IMG_6678&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6678.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6678&quot; title=&quot;IMG_6678&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1345,8 +1357,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6680.JPG&quot; title=&quot;IMG_6680&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6680.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6680&quot; title=&quot;IMG_6680&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_a_table_carving/IMG_6680.JPG&quot; title=&quot;IMG_6680&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_a_table_carving/IMG_6680.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6680&quot; title=&quot;IMG_6680&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1502,16 +1513,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -1599,13 +1615,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6692.JPG&quot; title=&quot;IMG_6692&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6692.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6692&quot; title=&quot;IMG_6692&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6692.JPG&quot; title=&quot;IMG_6692&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6692.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6692&quot; title=&quot;IMG_6692&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1617,8 +1634,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6706.JPG&quot; title=&quot;IMG_6706&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6706.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6706&quot; title=&quot;IMG_6706&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6706.JPG&quot; title=&quot;IMG_6706&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6706.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6706&quot; title=&quot;IMG_6706&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1630,8 +1646,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6729.JPG&quot; title=&quot;IMG_6729&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6729.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6729&quot; title=&quot;IMG_6729&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6729.JPG&quot; title=&quot;IMG_6729&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6729.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6729&quot; title=&quot;IMG_6729&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1643,8 +1658,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6731.JPG&quot; title=&quot;IMG_6731&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6731.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6731&quot; title=&quot;IMG_6731&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6731.JPG&quot; title=&quot;IMG_6731&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6731.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6731&quot; title=&quot;IMG_6731&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1656,8 +1670,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6732.JPG&quot; title=&quot;IMG_6732&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6732.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6732&quot; title=&quot;IMG_6732&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_b_table_cont/IMG_6732.JPG&quot; title=&quot;IMG_6732&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_b_table_cont/IMG_6732.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6732&quot; title=&quot;IMG_6732&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1803,16 +1816,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -1910,13 +1928,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_4738.JPG&quot; title=&quot;IMG_4738&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_4738.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4738&quot; title=&quot;IMG_4738&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_4738.JPG&quot; title=&quot;IMG_4738&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_4738.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4738&quot; title=&quot;IMG_4738&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1928,8 +1947,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6699.JPG&quot; title=&quot;IMG_6699&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6699.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6699&quot; title=&quot;IMG_6699&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6699.JPG&quot; title=&quot;IMG_6699&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6699.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6699&quot; title=&quot;IMG_6699&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1941,8 +1959,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6715.JPG&quot; title=&quot;IMG_6715&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6715.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6715&quot; title=&quot;IMG_6715&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6715.JPG&quot; title=&quot;IMG_6715&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6715.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6715&quot; title=&quot;IMG_6715&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1954,8 +1971,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6717.JPG&quot; title=&quot;IMG_6717&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6717.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6717&quot; title=&quot;IMG_6717&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6717.JPG&quot; title=&quot;IMG_6717&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6717.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6717&quot; title=&quot;IMG_6717&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -1967,8 +1983,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6740.JPG&quot; title=&quot;IMG_6740&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6740.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6740&quot; title=&quot;IMG_6740&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/3_c_back/IMG_6740.JPG&quot; title=&quot;IMG_6740&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/3_c_back/IMG_6740.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6740&quot; title=&quot;IMG_6740&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2104,16 +2119,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -2221,13 +2241,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5242.JPG&quot; title=&quot;IMG_5242&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5242.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5242&quot; title=&quot;IMG_5242&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5242.JPG&quot; title=&quot;IMG_5242&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5242.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5242&quot; title=&quot;IMG_5242&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2239,8 +2260,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5264.JPG&quot; title=&quot;IMG_5264&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5264.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5264&quot; title=&quot;IMG_5264&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5264.JPG&quot; title=&quot;IMG_5264&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5264.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5264&quot; title=&quot;IMG_5264&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2252,8 +2272,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5266.JPG&quot; title=&quot;IMG_5266&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5266.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5266&quot; title=&quot;IMG_5266&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5266.JPG&quot; title=&quot;IMG_5266&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5266.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5266&quot; title=&quot;IMG_5266&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2265,8 +2284,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5269.JPG&quot; title=&quot;IMG_5269&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5269.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5269&quot; title=&quot;IMG_5269&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5269.JPG&quot; title=&quot;IMG_5269&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5269.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5269&quot; title=&quot;IMG_5269&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2278,8 +2296,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5280.JPG&quot; title=&quot;IMG_5280&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5280.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5280&quot; title=&quot;IMG_5280&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_a_ribs_bending/IMG_5280.JPG&quot; title=&quot;IMG_5280&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_a_ribs_bending/IMG_5280.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5280&quot; title=&quot;IMG_5280&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2405,16 +2422,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -2532,13 +2554,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_5281.JPG&quot; title=&quot;IMG_5281&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_5281.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5281&quot; title=&quot;IMG_5281&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_5281.JPG&quot; title=&quot;IMG_5281&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_5281.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5281&quot; title=&quot;IMG_5281&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2550,8 +2573,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_5282.JPG&quot; title=&quot;IMG_5282&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_5282.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5282&quot; title=&quot;IMG_5282&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_5282.JPG&quot; title=&quot;IMG_5282&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_5282.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5282&quot; title=&quot;IMG_5282&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2563,8 +2585,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_6690.JPG&quot; title=&quot;IMG_6690&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_6690.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6690&quot; title=&quot;IMG_6690&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_6690.JPG&quot; title=&quot;IMG_6690&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_6690.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6690&quot; title=&quot;IMG_6690&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2576,8 +2597,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_6752.JPG&quot; title=&quot;IMG_6752&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_6752.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6752&quot; title=&quot;IMG_6752&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/4_b_neck_junction/IMG_6752.JPG&quot; title=&quot;IMG_6752&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/4_b_neck_junction/IMG_6752.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6752&quot; title=&quot;IMG_6752&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2695,16 +2715,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -2830,13 +2855,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_133213.jpg&quot; title=&quot;IMG_20181207_133213&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_133213.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_133213&quot; title=&quot;IMG_20181207_133213&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_133213.jpg&quot; title=&quot;IMG_20181207_133213&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_133213.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_133213&quot; title=&quot;IMG_20181207_133213&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2848,8 +2874,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_163539.jpg&quot; title=&quot;IMG_20181207_163539&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_163539.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_163539&quot; title=&quot;IMG_20181207_163539&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_163539.jpg&quot; title=&quot;IMG_20181207_163539&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_163539.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_163539&quot; title=&quot;IMG_20181207_163539&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2861,8 +2886,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_174453.jpg&quot; title=&quot;IMG_20181207_174453&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_174453.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_174453&quot; title=&quot;IMG_20181207_174453&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_174453.jpg&quot; title=&quot;IMG_20181207_174453&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_174453.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_174453&quot; title=&quot;IMG_20181207_174453&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2874,8 +2898,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_181037.jpg&quot; title=&quot;IMG_20181207_181037&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_181037.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_181037&quot; title=&quot;IMG_20181207_181037&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_181037.jpg&quot; title=&quot;IMG_20181207_181037&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181207_181037.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181207_181037&quot; title=&quot;IMG_20181207_181037&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2887,8 +2910,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181213_155619.jpg&quot; title=&quot;IMG_20181213_155619&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181213_155619.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_155619&quot; title=&quot;IMG_20181213_155619&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/5_bassbar_line_cloth/IMG_20181213_155619.jpg&quot; title=&quot;IMG_20181213_155619&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/5_bassbar_line_cloth/IMG_20181213_155619.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_155619&quot; title=&quot;IMG_20181213_155619&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -2996,16 +3018,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -3141,13 +3168,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181213_192810.jpg&quot; title=&quot;IMG_20181213_192810&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181213_192810.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_192810&quot; title=&quot;IMG_20181213_192810&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181213_192810.jpg&quot; title=&quot;IMG_20181213_192810&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181213_192810.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_192810&quot; title=&quot;IMG_20181213_192810&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3159,8 +3187,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181213_192842.jpg&quot; title=&quot;IMG_20181213_192842&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181213_192842.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_192842&quot; title=&quot;IMG_20181213_192842&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181213_192842.jpg&quot; title=&quot;IMG_20181213_192842&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181213_192842.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_192842&quot; title=&quot;IMG_20181213_192842&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3172,8 +3199,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181213_192903.jpg&quot; title=&quot;IMG_20181213_192903&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181213_192903.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_192903&quot; title=&quot;IMG_20181213_192903&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181213_192903.jpg&quot; title=&quot;IMG_20181213_192903&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181213_192903.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_192903&quot; title=&quot;IMG_20181213_192903&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3185,8 +3211,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181214_184139.jpg&quot; title=&quot;IMG_20181214_184139&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181214_184139.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_184139&quot; title=&quot;IMG_20181214_184139&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_20181214_184139.jpg&quot; title=&quot;IMG_20181214_184139&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_20181214_184139.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_184139&quot; title=&quot;IMG_20181214_184139&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3198,8 +3223,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_4722.JPG&quot; title=&quot;IMG_4722&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_4722.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4722&quot; title=&quot;IMG_4722&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/6_assembly/IMG_4722.JPG&quot; title=&quot;IMG_4722&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/6_assembly/IMG_4722.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_4722&quot; title=&quot;IMG_4722&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3297,16 +3321,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -3452,13 +3481,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165213.jpg&quot; title=&quot;IMG_20181211_165213&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165213.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_165213&quot; title=&quot;IMG_20181211_165213&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165213.jpg&quot; title=&quot;IMG_20181211_165213&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165213.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_165213&quot; title=&quot;IMG_20181211_165213&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3470,8 +3500,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165214.jpg&quot; title=&quot;IMG_20181211_165214&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165214.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_165214&quot; title=&quot;IMG_20181211_165214&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165214.jpg&quot; title=&quot;IMG_20181211_165214&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_165214.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_165214&quot; title=&quot;IMG_20181211_165214&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3483,8 +3512,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_201656.jpg&quot; title=&quot;IMG_20181211_201656&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_201656.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_201656&quot; title=&quot;IMG_20181211_201656&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_201656.jpg&quot; title=&quot;IMG_20181211_201656&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181211_201656.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181211_201656&quot; title=&quot;IMG_20181211_201656&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3496,8 +3524,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181212_193816.jpg&quot; title=&quot;IMG_20181212_193816&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181212_193816.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181212_193816&quot; title=&quot;IMG_20181212_193816&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181212_193816.jpg&quot; title=&quot;IMG_20181212_193816&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181212_193816.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181212_193816&quot; title=&quot;IMG_20181212_193816&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3509,8 +3536,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181214_184441.jpg&quot; title=&quot;IMG_20181214_184441&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181214_184441.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_184441&quot; title=&quot;IMG_20181214_184441&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/7_fingerboard_tailpiece/IMG_20181214_184441.jpg&quot; title=&quot;IMG_20181214_184441&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/7_fingerboard_tailpiece/IMG_20181214_184441.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_184441&quot; title=&quot;IMG_20181214_184441&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3600,16 +3626,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -3765,13 +3796,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/8_purflings/IMG_20200220_181221.jpg&quot; title=&quot;IMG_20200220_181221&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/8_purflings/IMG_20200220_181221.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200220_181221&quot; title=&quot;IMG_20200220_181221&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/8_purflings/IMG_20200220_181221.jpg&quot; title=&quot;IMG_20200220_181221&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/8_purflings/IMG_20200220_181221.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200220_181221&quot; title=&quot;IMG_20200220_181221&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3783,8 +3815,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/8_purflings/IMG_20200222_123538.jpg&quot; title=&quot;IMG_20200222_123538&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/8_purflings/IMG_20200222_123538.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200222_123538&quot; title=&quot;IMG_20200222_123538&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/8_purflings/IMG_20200222_123538.jpg&quot; title=&quot;IMG_20200222_123538&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/8_purflings/IMG_20200222_123538.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200222_123538&quot; title=&quot;IMG_20200222_123538&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3796,8 +3827,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/8_purflings/IMG_20200222_194205.jpg&quot; title=&quot;IMG_20200222_194205&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/8_purflings/IMG_20200222_194205.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200222_194205&quot; title=&quot;IMG_20200222_194205&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/8_purflings/IMG_20200222_194205.jpg&quot; title=&quot;IMG_20200222_194205&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/8_purflings/IMG_20200222_194205.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200222_194205&quot; title=&quot;IMG_20200222_194205&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -3883,16 +3913,21 @@
 
 &lt;style&gt;
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 &lt;/style&gt;
@@ -4054,13 +4089,14 @@
         
     
         
+    
+        
             
             
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20180212_192926.jpg&quot; title=&quot;IMG_20180212_192926&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20180212_192926.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180212_192926&quot; title=&quot;IMG_20180212_192926&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20180212_192926.jpg&quot; title=&quot;IMG_20180212_192926&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20180212_192926.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20180212_192926&quot; title=&quot;IMG_20180212_192926&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4072,8 +4108,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181213_230408.jpg&quot; title=&quot;IMG_20181213_230408&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181213_230408.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_230408&quot; title=&quot;IMG_20181213_230408&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181213_230408.jpg&quot; title=&quot;IMG_20181213_230408&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181213_230408.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_230408&quot; title=&quot;IMG_20181213_230408&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4085,8 +4120,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181213_230417.jpg&quot; title=&quot;IMG_20181213_230417&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181213_230417.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_230417&quot; title=&quot;IMG_20181213_230417&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181213_230417.jpg&quot; title=&quot;IMG_20181213_230417&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181213_230417.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181213_230417&quot; title=&quot;IMG_20181213_230417&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4098,8 +4132,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181214_191949.jpg&quot; title=&quot;IMG_20181214_191949&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181214_191949.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_191949&quot; title=&quot;IMG_20181214_191949&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181214_191949.jpg&quot; title=&quot;IMG_20181214_191949&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181214_191949.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_191949&quot; title=&quot;IMG_20181214_191949&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4111,8 +4144,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181214_192038.jpg&quot; title=&quot;IMG_20181214_192038&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181214_192038.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_192038&quot; title=&quot;IMG_20181214_192038&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20181214_192038.jpg&quot; title=&quot;IMG_20181214_192038&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20181214_192038.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20181214_192038&quot; title=&quot;IMG_20181214_192038&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4124,8 +4156,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200219_212840.jpg&quot; title=&quot;IMG_20200219_212840&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200219_212840.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200219_212840&quot; title=&quot;IMG_20200219_212840&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200219_212840.jpg&quot; title=&quot;IMG_20200219_212840&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200219_212840.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200219_212840&quot; title=&quot;IMG_20200219_212840&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4137,8 +4168,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200219_230530.jpg&quot; title=&quot;IMG_20200219_230530&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200219_230530.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200219_230530&quot; title=&quot;IMG_20200219_230530&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200219_230530.jpg&quot; title=&quot;IMG_20200219_230530&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200219_230530.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200219_230530&quot; title=&quot;IMG_20200219_230530&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4150,8 +4180,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200220_234936.jpg&quot; title=&quot;IMG_20200220_234936&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200220_234936.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200220_234936&quot; title=&quot;IMG_20200220_234936&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200220_234936.jpg&quot; title=&quot;IMG_20200220_234936&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200220_234936.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200220_234936&quot; title=&quot;IMG_20200220_234936&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4163,8 +4192,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200221_124521.jpg&quot; title=&quot;IMG_20200221_124521&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200221_124521.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200221_124521&quot; title=&quot;IMG_20200221_124521&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_20200221_124521.jpg&quot; title=&quot;IMG_20200221_124521&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_20200221_124521.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_20200221_124521&quot; title=&quot;IMG_20200221_124521&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4176,8 +4204,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5235.JPG&quot; title=&quot;IMG_5235&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5235.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5235&quot; title=&quot;IMG_5235&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5235.JPG&quot; title=&quot;IMG_5235&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5235.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5235&quot; title=&quot;IMG_5235&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4189,8 +4216,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5262.JPG&quot; title=&quot;IMG_5262&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5262.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5262&quot; title=&quot;IMG_5262&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5262.JPG&quot; title=&quot;IMG_5262&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5262.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5262&quot; title=&quot;IMG_5262&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4202,8 +4228,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5277.JPG&quot; title=&quot;IMG_5277&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5277.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5277&quot; title=&quot;IMG_5277&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_5277.JPG&quot; title=&quot;IMG_5277&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_5277.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_5277&quot; title=&quot;IMG_5277&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4215,8 +4240,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_6725.JPG&quot; title=&quot;IMG_6725&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_6725.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6725&quot; title=&quot;IMG_6725&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_6725.JPG&quot; title=&quot;IMG_6725&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_6725.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6725&quot; title=&quot;IMG_6725&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4228,8 +4252,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_6747.JPG&quot; title=&quot;IMG_6747&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_6747.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6747&quot; title=&quot;IMG_6747&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/IMG_6747.JPG&quot; title=&quot;IMG_6747&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/IMG_6747.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;IMG_6747&quot; title=&quot;IMG_6747&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             
@@ -4241,8 +4264,7 @@
                 
                 
                 
-                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/P1070018.JPG&quot; title=&quot;P1070018&quot;&gt;
-                    &lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/P1070018.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070018&quot; title=&quot;P1070018&quot; /&gt;
+                &lt;li&gt;&lt;a href=&quot;/assets/images/viole/various/P1070018.JPG&quot; title=&quot;P1070018&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.clementdestephen.com/assets/images/viole/various/P1070018.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;P1070018&quot; title=&quot;P1070018&quot; /&gt;
                     &lt;/a&gt;
                 &lt;/li&gt;
             

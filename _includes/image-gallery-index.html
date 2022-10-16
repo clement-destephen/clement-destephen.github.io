@@ -8,8 +8,11 @@
 <p class="image-gallery-index">
     {% for item in page.galleries %}
         <a href="{{ item.url }}" title="{{ item.title }}">
-            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-            <span>{{ item.title }}</span>
+            {%- if jekyll.environment == 'production' -%}
+            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
+            {% else %}
+            <img src="/assets/images/300x300_image.jpg" alt="{{ filename }}" title="{{ filename }}" />
+            {%- endif -%}            <span>{{ item.title }}</span>
         </a>
     {% endfor %}
 </p>

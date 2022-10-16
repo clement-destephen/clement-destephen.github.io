@@ -23,9 +23,9 @@ Since 2017 after various readings about temperament history I began experimentin
 <p>&nbsp;</p>
 
 <html>
-<p align="center">
-<img src="/assets/images/Hydraulis_001.jpeg" />
-</p>
+    <p align="center">
+        <img src="/assets/images/Hydraulis_001.jpeg" />
+    </p>
 </html>
 
 

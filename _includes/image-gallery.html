@@ -1,15 +1,20 @@
 <style>
     .image-gallery {
+        
+        margin-left: auto;
+        margin-right: auto;
+        
         display: flex;
         flex-wrap:wrap;
         white-space: nowrap;
         overflow-x:auto;
-        justify-content:space-around;
-    }
 
-    .image-gallery li {float:left; display: block; margin: 0 0 1% 1%; width: 19%;}
+        align-items: center;
+        justify-content:center;
+    }
+    .image-gallery li {float:none; display: block; margin: 0.5% 0.5% 0.5% 0.5%; width: 19%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0px 0px;}
     .image-gallery li a img {width: 100%; display: block;}
     
 </style>
@@ -23,7 +28,13 @@
                 {% assign filename = filenameparts | last | replace: file.extname,"" %}
                 
                 <li><a href="{{ file.path | relative_url }}" title="{{ filename }}">
+
+                    {%- if jekyll.environment == 'production' -%}
                     <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
+                    {% else %}
+                    <img src="/assets/images/300x300_image.jpg" alt="{{ filename }}" title="{{ filename }}" />
+                    {%- endif -%}
+                    
                     </a>
                 </li>
             {% endif %}
