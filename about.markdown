@@ -18,7 +18,7 @@ I've also been experimenting with digital music instruments through various musi
 
 In parallel I became interested in traditional music instrument building and started the construction of a viola da gamba an a small qanûn.
 
-Since 2017 after various readings about temperament history I began experimenting with string harmonics, electromagnets and microcontrollers. One outcome of it is this one-string electromagnetically-driven monochord, or for the lack of a better name, the "harmonic monochord". I am currently very involved with this and working on improving the circuit and making a version with more strings.
+Since 2017 after various readings about temperament history I began experimenting with string harmonics, electromagnets and microcontrollers. One outcome of it is this one-string electromagnetically-driven monochord, or for the lack of a better name, the "harmonic monochord". I am currently very involved with it, improving the circuit to make a version with more strings.
 
 <p>&nbsp;</p>
 

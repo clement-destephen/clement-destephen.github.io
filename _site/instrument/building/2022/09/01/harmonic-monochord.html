@@ -47,7 +47,20 @@
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p><img src="/assets/images/monochord_1.png" alt="alt text" title="monochord pic 1" /></p>
+    <style>
+    .single-image {
+        width: 100%;  
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .single-image-80 {
+        width: 80%;  
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+
+<p><img src="/assets/images/monochord_1.png" alt="alt text" title="monochord pic 1" /></p>
 
 <p>&nbsp;</p>
 
@@ -65,33 +78,64 @@
 
 <p>The intensity of each harmonic is changed by sliding your fingers on the small copper elements.</p>
 
+<p>&nbsp;</p>
+
+<p><img src="/assets/images/monochord_9.jpg" alt="alt text" title="monochord pic 9" /></p>
+
+<p>&nbsp;</p>
+
 <p>The string vibrations are further amplified by a wooden resonator made with flame maple and beech.
 The sound is purely acoustic, not involving any pickup system.</p>
 
 <p>&nbsp;</p>
 
-<p>A few recordings :</p>
+<h3 id="recordings">Recordings</h3>
 
-<audio src="/assets/sounds/ZOOM0031.mp3" controls=""></audio>
+<p>Here are a few recordings exploring a combination of a “bass” harmonic used as a root note and various subsets of the harmonic series:</p>
 
-<audio src="/assets/sounds/ZOOM0032.mp3" controls=""></audio>
+<p align="center">
+    2-1 | 2-3 | 2-4 | 2-5 | 2-7 | 2-8 | 2-9 | 2-11 | 2-12 | 2-13 | 2-15 | 2-16
+    <br />
+    <audio src="/assets/sounds/ZOOM0032.mp3" controls=""></audio>
+    <br />
+    <br />
+    3-2 | 3-3 | 3-6 | 3-10 | 3-12 | 3-13 | 3-14 | 3-15 | 3-16 
+    <br />    
+    <audio src="/assets/sounds/ZOOM0033.mp3" controls=""></audio>
+    <br />
+    <br />
+    4-1 | 4-3 | 4-5 | 4-6 | 4-7 | 4-9 | 4-11 | 4-13 | 4-15 | 4-16 
+    <br />
+    <audio src="/assets/sounds/ZOOM0034.mp3" controls=""></audio>
+    <br />
+    <br />
+    5-2 | 5-4 | 5-6 | 5-8 | 5-10 | 5-12 | 5-14 | 5-15 
+    <br />
+    <audio src="/assets/sounds/ZOOM0035.mp3" controls=""></audio>
+    <br />
+    <br />
+    6-1 | 6-3 | 6-4 | 6-5 | 6-7 | 6-8 | 6-9 | 6-11 | 6-12 | 6-13 | 6-15 | 6-16 
+    <br />
+    <audio src="/assets/sounds/ZOOM0036.mp3" controls=""></audio>
+    <br />
+    <br />
+    6-1 | 6-3 | 6-4 | 6-5 | 6-7 | 6-8 | 6-9 | 6-11 | 6-12 | 6-13 | 6-15 | 6-16 
+    <br />
+    <audio src="/assets/sounds/ZOOM0036.mp3" controls=""></audio>
+    <br />
+    <br />
+    8-6 | 8-9 | 8-10 | 8-12 | 8-14 &lt;- 
+    <br />
+    <audio src="/assets/sounds/ZOOM0038.mp3" controls=""></audio>
+</p>
 
-<audio src="/assets/sounds/ZOOM0033.mp3" controls=""></audio>
-
-<audio src="/assets/sounds/ZOOM0034.mp3" controls=""></audio>
-
-<audio src="/assets/sounds/ZOOM0035.mp3" controls=""></audio>
-
-<audio src="/assets/sounds/ZOOM0036.mp3" controls=""></audio>
+<p>You can hear how certain harmonic pairs are naturally cancelling each other out, while some are actually reenforcing themselves, producing strong combinations.</p>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-<p><strong>How it works</strong></p>
+<h3 id="working-principles">Working principles</h3>
 
 <p><img src="/assets/images/monochord_5.png" alt="alt text" title="monochord pic 5" /></p>
-
-<p>&nbsp;</p>
 
 <p>The electromagnets are driven by pulse-width modulated signals. The concept here is different from the  well-kown E-bows, which are using a feedback-loop. There are a few benefits from using a direct PWM excitation :</p>
 <ul>
@@ -99,21 +143,46 @@ The sound is purely acoustic, not involving any pickup system.</p>
   <li>the string can vibrate at potentially any of its resonance mode or any combination of modes.</li>
 </ul>
 
-<p>The downside being of course that the frequencies must be known by the system, hence the dedicated tuning knobs.
-There is one fine-tuning potentiometer per harmonic. They allow a slight detuning of each PWM wave, in order to accomodate for the string natural inharmonicity.</p>
+<p>The downside being of course that the frequencies must be known by the system, hence the need for tuning potentiometers.</p>
+
+<h3 id="electromagnets">Electromagnets</h3>
+
+<p class="single-image">
+  <img src="/assets/images/monochord_7.png" />
+</p>
+
+<p>The electromagnets are either placed on antinodes in order to have the maximum effect on modes, or in places which are less optimal but accomodate the excitation of several modes. I had to find a working combination, given the limitation of 5 electromagnets and the idea of exciting every single harmonic from 1 to 16. Placing an electromagnet very close to a string’s ending was not so efficient even though many more modes would have been virtually available.</p>
+
+<p class="single-image">
+  <img src="/assets/images/monochord_onlg_3_hor.png" />
+</p>
+
+<p>The electromagnet’s distance to the string can be adjusted individually, to bring them as close as possible to the string, but making sure that the string never touches them (the lower modes being stronger, the amplitude of vibration is naturally bigger).</p>
+
+<h3 id="tuning-potentiometers">Tuning potentiometers</h3>
+
+<p class="single-image">
+  <img src="/assets/images/monochord_8.png" />
+</p>
+
+<p>There is one fine-tuning potentiometer per harmonic. They allow a slight detuning of each PWM wave, in order to accomodate for the string natural inharmonicity.</p>
+
+<p>The process of tuning is interesting because you can clearly hear how far a given harmonic is from the perfect sequence, thanks to the forced resonance induced by the electromagnetic field beating against the natural string mode. The closer you get, the slower the beating becomes until you reach a “perfect” match and hear a sudden burst of energy in the sound.</p>
+
+<p>This instrument is good to measure the inharmonicity of a string, and also observe how the inharmonicity pattern is shifting for different tunings. I could not observe any obvious pattern, and I’m actually wondering if anyone has ever investigated this, please contact me if you know anything.</p>
+
+<p>The system is calibrated to give a theoretical tuning resolution always below the cent. 
+In practice it’s evolving along the frequencies due to the microcontroller limitations, mainly the internal prescalers used to divide down the main clock and the bit depth of the Timers used to generated the PWM signals.</p>
+
+<p>In the current version, the detuning range goes from -5 to +5 cents. While experimenting, I observed that for certain strings of smaller diameter, and for some without extra-winding the inharmonicity tended to be more, sometimes up to +40cents. So by choosing the string carefully I can reduce the tuning range and increase the tuning precision.</p>
 
 <p>The string itself can be tuned via two pegs, one for coarse and one for fine tuning.</p>
 
+<p class="single-image-80">
+  <img src="/assets/images/monochord_10.png" />
+</p>
+
 <p>The instrument needs to be powered by an external 15V batterie / AC adapter.</p>
-
-<p>&nbsp;</p>
-
-<p><img src="/assets/images/monochord_7.png" alt="alt text" title="monochord pic 7" /></p>
-
-<p><img src="/assets/images/monochord_8.png" alt="alt text" title="monochord pic 8" /></p>
-
-<p><img src="/assets/images/monochord_4.png" alt="alt text" title="monochord pic 4" /></p>
-
 
   </div><a class="u-url" href="/instrument/building/2022/09/01/harmonic-monochord.html" hidden></a>
 </article>

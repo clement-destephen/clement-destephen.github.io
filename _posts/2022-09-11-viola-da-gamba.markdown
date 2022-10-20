@@ -8,7 +8,7 @@ visible: 1
 
 A few years ago I started building a Viola da Gamba under the guidance of [Gesina Liedmeier](https://www.liedmeier.nl/home).
 
-The original model is from a 1629 Alto viola from the reknowned british maker Henry Jaye.
+The original model is from a 1629 Alto viola from the renowned british maker Henry Jaye.
 
 
 {% include image-gallery.html folder="/assets/images/viole/0_plan" %}
@@ -23,13 +23,13 @@ Parallelly, the wood plates for the top (3 pieces) and the back (2 pieces) were 
 
 {% include image-gallery.html folder="/assets/images/viole/1_b_plates" %}
 
-There are various techniques to give the front plate its shape, according to the time in history and countries. For this model, I first pre-bent the 3 plates and then proceeded with carving.
+There are various techniques to give the front plate its shape, according to the time in history and countries. For this model, I first pre-bent the 3 plates and then proceeded with carving. Wood bending can be done in different ways, sometimes involving boiling the wood pieces in water or just bringing them to a higher temperature.
 
 {% include image-gallery.html folder="/assets/images/viole/2_front_plates" %}
 
-Glueing the pieces together is made with a special mixture of hide/fish glue, sometimes involving boiling the wood pieces in water or just bringing them to a higher temperature.
+Glueing the pieces together is made with a special mixture of hide/fish glue.
 
-After that, a lot of time is spent planing the plates, measuring their thickness in order to match the historical model. 
+After that, a lot of time is spent planing the plates, measuring their thicknesses in order to match the historical model. 
 
 {% include image-gallery.html folder="/assets/images/viole/3_a_table_carving" %}
 
@@ -61,9 +61,7 @@ The fingerboard and tailpiece are then prepared. Again, the exact curvature has 
 
 {% include image-gallery.html folder="/assets/images/viole/7_fingerboard_tailpiece" %}
 
-The extremities of the front plate are then prepared for the purflings. 
-
-The black line underlining the top plate's outline is added :
+The black line underlining the top plate's outline is added (the purflings) :
 
 {% include image-gallery.html folder="/assets/images/viole/8_purflings" %}
 
