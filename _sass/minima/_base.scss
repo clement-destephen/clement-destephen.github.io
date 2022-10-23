@@ -8,7 +8,18 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+#canvas-container {
+  width: 80%;//90vw;
+  height: 90vh;
+  margin: auto;
+    display: block;
+}
 
+canvas {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 
 /**
  * Basic styling
@@ -97,7 +108,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
-
+canvas {
+  width: 100%;
+  height: 100%;
+  display: block;   /* this is IMPORTANT! */
+}
 
 /**
  * Links

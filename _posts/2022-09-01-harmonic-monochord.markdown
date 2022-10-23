@@ -56,37 +56,37 @@ Here are a few recordings exploring a combination of a "bass" harmonic used as a
 <p align="center">
     2-1 | 2-3 | 2-4 | 2-5 | 2-7 | 2-8 | 2-9 | 2-11 | 2-12 | 2-13 | 2-15 | 2-16
     <br>
-    <audio src="/assets/sounds/ZOOM0032.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0032_corrected.mp3" controls></audio>
     <br>
     <br>
     3-2 | 3-3 | 3-6 | 3-10 | 3-12 | 3-13 | 3-14 | 3-15 | 3-16 
     <br>    
-    <audio src="/assets/sounds/ZOOM0033.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0033_corrected.mp3" controls></audio>
     <br>
     <br>
     4-1 | 4-3 | 4-5 | 4-6 | 4-7 | 4-9 | 4-11 | 4-13 | 4-15 | 4-16 
     <br>
-    <audio src="/assets/sounds/ZOOM0034.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0034_corrected.mp3" controls></audio>
     <br>
     <br>
     5-2 | 5-4 | 5-6 | 5-8 | 5-10 | 5-12 | 5-14 | 5-15 
     <br>
-    <audio src="/assets/sounds/ZOOM0035.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0035_corrected.mp3" controls></audio>
     <br>
     <br>
     6-1 | 6-3 | 6-4 | 6-5 | 6-7 | 6-8 | 6-9 | 6-11 | 6-12 | 6-13 | 6-15 | 6-16 
     <br>
-    <audio src="/assets/sounds/ZOOM0036.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0036_corrected.mp3" controls></audio>
     <br>
     <br>
     6-1 | 6-3 | 6-4 | 6-5 | 6-7 | 6-8 | 6-9 | 6-11 | 6-12 | 6-13 | 6-15 | 6-16 
     <br>
-    <audio src="/assets/sounds/ZOOM0036.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0036_corrected.mp3" controls></audio>
     <br>
     <br>
     8-6 | 8-9 | 8-10 | 8-12 | 8-14 <- 
     <br>
-    <audio src="/assets/sounds/ZOOM0038.mp3" controls></audio>
+    <audio src="/assets/sounds/ZOOM0038_corrected.mp3" controls></audio>
 </p>
 
 You can hear how certain harmonic pairs are naturally cancelling each other out, while some are actually reenforcing themselves, producing strong combinations.
