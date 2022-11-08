@@ -4,10 +4,18 @@
 
 layout: page
 ---
+
 <html>
 
+<p align="center">
+<audio autoplay>
+    <source src= "/assets/sounds/monochord_half_speed.mp3">
+</audio>
+</p>
+
+
 <div id="canvas-container" >
-  <canvas id="canvas" ></canvas>
+      <canvas id="canvas" ></canvas>
 </div>
 
 </html>

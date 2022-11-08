@@ -1,0 +1,11 @@
+---
+ref: selector
+lang: en
+---
+
+<ul class="languages">
+{% for lang in site.data.languages %}
+{% assign language = lang[1] %}
+<li><a lang="{{lang[0]}}" href="{{lang[0] | absolute_url}}">{{language.icon}} {{ language.label }}</a></li>
+{% endfor %}
+</ul>

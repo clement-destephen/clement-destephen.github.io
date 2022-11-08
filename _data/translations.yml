@@ -1,0 +1,111 @@
+description:
+  en: this site is about something
+  fr: ce site parle de quelque chose
+home:
+  en: "home"
+  fr: "accueil"
+about:
+  en: "about"
+  fr: "à  propos"
+previous:
+  en: "previous"
+  fr: "précédent"
+next:
+  en: "next"
+  fr: "suivant"
+subscribe:
+  en: "subscribe"
+  fr: "s'abonner"
+related:
+  en: "related posts"
+  fr: "articles similaires"
+readthisin:
+  en: "read this in"
+  fr: "lisez ceci en"
+homein:
+  en: "home page in"
+  fr: "page d'accueil en"
+publishedin:
+  en: "published in"
+  fr: "paru dans"
+download:
+  en: "download"
+  fr: "télécharger"
+here:
+  en: "here"
+  fr: "ici"
+bibliocitation:
+  en: "bibliographic citation"
+  fr: "référence bibliographique"
+citation:
+  en: "citation"
+  fr: "référence"
+recommended:
+  en: "recommended"
+  fr: "conseillée"
+suggestedcitation:
+  en: "suggested citation"
+  fr: "référence suggérée"
+plsenablejs:
+  en: "please enable Javascript"
+  fr: "veuillez activer Javascript"
+toview:
+  en: "to view"
+  fr: "pour afficher"
+comments:
+  en: "comments"
+  fr: "les commentaires"
+are:
+  en: "are"
+  fr: "sont"
+poweredby:
+  en: "powered by"
+  fr: "gérés par"
+en:
+  en: "English"
+  fr: "anglais"
+es:
+  en: "Spanish"
+  fr: "espagnol"
+fr:
+  en: "French"
+  fr: "français"
+pl:
+  en: "Polish"
+  fr: "polonais"
+Jan:
+  en: "January"
+  fr: "janvier"
+Feb:
+  en: "February"
+  fr: "février"
+Mar:
+  en: "March"
+  fr: "mars"
+Apr:
+  en: "April"
+  fr: "avril"
+May:
+  en: "May"
+  fr: "mai"
+Jun:
+  en: "June"
+  fr: "juin"
+Jul:
+  en: "July"
+  fr: "juillet"
+Aug:
+  en: "August"
+  fr: "août"
+Sep:
+  en: "September"
+  fr: "septembre"
+Oct:
+  en: "October"
+  fr: "octobre"
+Nov:
+  en: "November"
+  fr: "novembre"
+Dec:
+  en: "December"
+  fr: "décembre"
