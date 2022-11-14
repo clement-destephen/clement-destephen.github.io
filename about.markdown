@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-TEST
+TESTe
 
 As a child I got lucky to receive a classical music education. I learned and still play to this day the cello. 
 
