@@ -29,14 +29,27 @@ twitter_username:
 soundcloud_username: clementdestephen
 linkedin_username: clement-destephen
 markdown: kramdown
-lang: en
-languages: ["fr", "en"]
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-polyglot
+
+# Polyglot
+languages: ["en","fr"]
+default_lang: "en"
+exclude_from_localization: ["js", "css", "public"]
+parallel_localization: true
+
+home:
+  en: Home
+  fr: Acceuil
+
+contact:
+  en: Contact & Links
+  fr: Contact & Liens
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,72 +70,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: default
-  - scope:
-      type: posts
-    values:
-      layout: post
-  - scope:
-      type: pages
-    values:
-      layout: page
-  - scope:
-      path: "*/index.md"
-      type: pages
-    values:
-      layout: home
-  - scope:
-      type: portfolio
-    values:
-      layout: page
-  - scope:
-      type: publications
-    values:
-      layout: page
-  - scope:
-      path: "*/feed.xml"
-    values:
-      layout: feed
-  - scope:
-      path: fr
-    values:
-      lang: fr
-  - scope:
-      path: en
-    values:
-      lang: en
-  - scope:
-      path: "_publications/fr"
-      type: publications
-    values:
-      lang: fr
-  - scope:
-      path: "_publications/en"
-      type: publications
-    values:
-      lang: en
-  - scope:
-      path: "_portfolio/fr"
-      type: portfolio
-    values:
-      lang: fr
-  - scope:
-      path: "_portfolio/en"
-      type: portfolio
-    values:
-      lang: en
-  - scope:
-      path: "_posts/fr"
-      type: posts
-    values:
-      lang: fr
-  - scope:
-      path: "_posts/en"
-      type: posts
-    values:
-      lang: en

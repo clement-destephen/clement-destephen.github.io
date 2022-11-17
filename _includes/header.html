@@ -1,9 +1,11 @@
+{% assign lang = site.active_lang %}
+
 <header class="site-header" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.home[lang] | escape }}</a>
 
     
   
@@ -30,4 +32,14 @@
       </nav>
     {%- endif -%}
   </div>
+
 </header>
+
+<p class = site-language-selector>
+  <div class="wrapper">
+  <!-- jekyll-polyglot will process ferh= into href= through the static_href liquid block tag without relativizing the url; useful for making language navigation switchers  -->
+  {% for tongue in site.languages %}
+<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a> {% if tongue != "fr" %} | {% endif %}
+  {% endfor %}
+</div>
+</p>

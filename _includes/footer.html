@@ -1,9 +1,10 @@
+{% assign lang = site.active_lang %}
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Contact & Links : </h2>
+    <h2 class="footer-heading">{{ site.contact[lang] | escape }} : </h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">

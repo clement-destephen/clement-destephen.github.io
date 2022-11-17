@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-11-14T22:31:11+01:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2022-11-18T00:26:55+01:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry xml:lang="en"><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html">&lt;p&gt;A few years ago I started building a Viola da Gamba under the guidance of &lt;a href=&quot;https://www.liedmeier.nl/home&quot;&gt;Gesina Liedmeier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The original model is from a 1629 Alto viola from the renowned british maker Henry Jaye.&lt;/p&gt;
 
@@ -2297,7 +2297,7 @@
     
 &lt;/ul&gt;
 
-&lt;p&gt;The ribs are then prepared and dry-bent with a bending iron. The shape has to match exactly the one from the plates, which makes it an especially challenging but also very rewarding process. While bending the wood, one must beware of maintening the right humidity level else it just cracks!&lt;/p&gt;
+&lt;p&gt;The ribs are then prepared and dry-bent with a bending iron. The shape has to match exactly the one from the template, which makes it an especially challenging but also very rewarding process. While bending the wood, one must beware of maintening the right humidity level else it just cracks!&lt;/p&gt;
 
 &lt;style&gt;
     .image-gallery {
@@ -4672,7 +4672,7 @@
     
         
     
-&lt;/ul&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">A few years ago I started building a Viola da Gamba under the guidance of Gesina Liedmeier.</summary></entry><entry><title type="html">Integrating FPGAs</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html" rel="alternate" type="text/html" title="Integrating FPGAs" /><published>2022-09-02T00:00:00+02:00</published><updated>2022-09-02T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html">&lt;p&gt;~ under construction ~&lt;/p&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">~ under construction ~</summary></entry><entry><title type="html">Harmonic Monochord</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html" rel="alternate" type="text/html" title="Harmonic Monochord" /><published>2022-09-01T23:28:40+02:00</published><updated>2022-09-01T23:28:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html">&lt;style&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">A few years ago I started building a Viola da Gamba under the guidance of Gesina Liedmeier.</summary></entry><entry><title type="html">Integrating FPGAs</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html" rel="alternate" type="text/html" title="Integrating FPGAs" /><published>2022-09-02T00:00:00+02:00</published><updated>2022-09-02T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/02/towards-an-instrument-with-several-strings.html">&lt;p&gt;~ under construction ~&lt;/p&gt;</content><author><name></name></author><category term="instrument" /><category term="building" /><summary type="html">~ under construction ~</summary></entry><entry xml:lang="en"><title type="html">Harmonic Monochord</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html" rel="alternate" type="text/html" title="Harmonic Monochord" /><published>2022-09-01T23:28:40+02:00</published><updated>2022-09-01T23:28:40+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/01/harmonic-monochord.html">&lt;style&gt;
     .single-image {
         width: 100%;  
         margin-left: auto;
@@ -4770,6 +4770,8 @@ The sound created is acoustic, and does not involve any pickup system.&lt;/p&gt;
 
 &lt;p&gt;The downside being of course that the frequencies must be known by the system, hence the need for tuning potentiometers.&lt;/p&gt;
 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
 &lt;h3 id=&quot;electromagnets&quot;&gt;Electromagnets&lt;/h3&gt;
 
 &lt;p class=&quot;single-image&quot;&gt;
@@ -4784,6 +4786,8 @@ The sound created is acoustic, and does not involve any pickup system.&lt;/p&gt;
 
 &lt;p&gt;The electromagnets distance to the string can be adjusted for each one of them. The general idea is to bring them as close as possible to the string, but making sure that the string never touches them (the lower modes being stronger, the amplitude of vibration is naturally bigger).&lt;/p&gt;
 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
 &lt;h3 id=&quot;tuning-potentiometers&quot;&gt;Tuning potentiometers&lt;/h3&gt;
 
 &lt;p class=&quot;single-image&quot;&gt;
@@ -4792,7 +4796,7 @@ The sound created is acoustic, and does not involve any pickup system.&lt;/p&gt;
 
 &lt;p&gt;This instrument is good to experience in a very practical manner the inharmonicity of a string.&lt;/p&gt;
 
-&lt;p&gt;String inharmonicity means that the frequencies of a given harmonic would not match exactly the harmonic serie.
+&lt;p&gt;String inharmonicity means that the frequency of a given harmonic does not match exactly the harmonic serie.
 For example, if the string is tuned precisely to 128 Hz, one would expect that the second harmonic would be at 2 * 128 = 256 Hz. Because of the way the string is built, and the physical properties of its materials, it would in real life be slightly off, by a few cents.&lt;/p&gt;
 
 &lt;p&gt;Each harmonic has a dedicated potentiometer which are slightly detuning each PWM wave to match the actual harmonic frequencies.&lt;/p&gt;
