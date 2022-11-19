@@ -52,7 +52,7 @@ The sound created is acoustic, and does not involve any pickup system.
 
 ### Recordings
 
-Here are a few recordings exploring a combination of a "bass" harmonic used as a root note and various subsets of the harmonic series. For those recordings the string was tuned to the frequency of 128 Hz.
+Here are a few recordings exploring a combination of a "bass" harmonic used as a root note and various subsets of the harmonic series. For those recordings the string was tuned to the frequency of 128 Hz. The numbers preceeding the recordings represent the pair of harmonics used. For instance, 2-3 means harmonic #2 and harmonic #3.
 
 <p align="center">
     2-1 | 2-3 | 2-4 | 2-5 | 2-7 | 2-8 | 2-9 | 2-11 | 2-12 | 2-13 | 2-15 | 2-16

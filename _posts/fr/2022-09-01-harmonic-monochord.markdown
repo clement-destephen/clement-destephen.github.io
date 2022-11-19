@@ -27,7 +27,7 @@ lang: fr
 
 Le monochorde harmonique est une expérience mettant en jeu une corde et des électro-aimants.
 
-Je me demandais s'il était possible de faire vibrer une corde selon ses fréquences harmoniques, en utilisant des champs élecromagnetiques adaptés.
+J'ai cherché à faire vibrer une corde selon ses fréquences harmoniques, en utilisant des champs électromagnétiques modulés.
 
 <p>&nbsp;</p>
 
@@ -35,9 +35,9 @@ Je me demandais s'il était possible de faire vibrer une corde selon ses fréque
 
 <p>&nbsp;</p>
 
-Cet instrument donne la possibilité de faire résonner les 16 premières harmoniques, individuellement, et en polyphonie, jusqu'à 5 en même temps.
+Cet instrument donne la possibilité de faire résonner les 16 premières harmoniques, individuellement et en polyphonie (jusqu'à 5 en même temps).
 
-Le volume de chaque harmonique peut être modulé en faisant glisser son doigt sur les petits élements de cuivre.
+Le volume de chaque harmonique peut être modulé en faisant glisser son doigt sur les élements de cuivre.
 
 <p>&nbsp;</p>
 
@@ -45,7 +45,7 @@ Le volume de chaque harmonique peut être modulé en faisant glisser son doigt s
 
 <p>&nbsp;</p>
 
-Les vibrations de la cordes sont ensuite amplifiées par une caisse de résonance en érable ondé et hêtre.
+Les vibrations de la cordes sont ensuite amplifiées par une caisse de résonance faite d´érable ondé et d´hêtre.
 
 Le son est donc entièrement acoustique, n'impliquant aucun système de micro.
 
@@ -53,7 +53,11 @@ Le son est donc entièrement acoustique, n'impliquant aucun système de micro.
 
 ### Enregistrements
 
-Voici quelques enregistrements, explorant des intervalles obtenus en combinant une harmonique de "base" et differents sous-ensembles de la série harmonique. Pour ces enregistrements, la corde a été accordée à la fréquence de 128 Hz.
+Voici quelques enregistrements, explorant des intervalles obtenus en combinant une harmonique de "base" et différents sous-ensembles de la série harmonique. 
+
+Pour ces enregistrements, la corde a été accordée à la fréquence de 128 Hz. 
+
+Les numéros précédant les enregistrements correspondent aux paires d'harmoniques utilisées. Par exemple 2-3 veut dire harmonique #2 et harmonique #3.
 
 <p align="center">
     2-1 | 2-3 | 2-4 | 2-5 | 2-7 | 2-8 | 2-9 | 2-11 | 2-12 | 2-13 | 2-15 | 2-16
@@ -91,7 +95,7 @@ Voici quelques enregistrements, explorant des intervalles obtenus en combinant u
     <audio src="/assets/sounds/ZOOM0038_corrected.mp3" controls></audio>
 </p>
 
-On peut entendre assez clairement comment certaines harmoniques se renforcent mutuellement, alors que d'autres ont tendence à s'atténuer.
+On peut entendre assez clairement comment certaines harmoniques se renforcent mutuellement, alors que d'autres ont tendance à s'atténuer.
 
 <p>&nbsp;</p>
 
@@ -99,7 +103,7 @@ On peut entendre assez clairement comment certaines harmoniques se renforcent mu
 
 ![alt text](/assets/images/monochord_5.png "monochord pic 5")
 
-Les électro-aimants sont excités par des signaux modulés en largeur d'impulsion (MLI/PWM). Le concept est différent des E-bows qui utilisent une boucle de rétroaction. L'utilisation d'une excitaiton directe en MLI apporte notamment :
+Les électro-aimants sont excités par des signaux modulés en largeur d'impulsion (MLI/PWM). Le concept est différent des E-bows qui utilisent une boucle de rétroaction. L'utilisation d'une excitation directe en MLI apporte notamment :
 - une entrée en résonance plus rapide de la corde (attaque)
 - la corde peut être potentiellement excitée à n'importe lequel de ses modes de résonance, ou n'importe quelle combinaison de modes.
 
@@ -113,13 +117,13 @@ Naturellement, cela implique la connaissance préalable des valeurs de fréquenc
   <img src="/assets/images/monochord_7.png" />
 </p>
 
-Les électro-aimants sont placés majoritairement sur des ventres de vibration pour qu'ils aient le maximum d'effet, mais aussi à d'autres points permettant l'excitation simultanée de plusieurs modes. J'ai du trouver un compromis pour pouvoir exciter les 16 premières harmoniques, et étant limité à l'utilisation de  seulement 5 électro-aimants. Placer un électroaimant proche d'une extremité de la corde n'a malheureusement pas fonctionné, l'inertie de la corde étant plus forte à cet endroit, meme si potentiellement de nombreux modes auraient pu être excités.
+Les électro-aimants sont placés majoritairement sur des ventres de vibration, pour qu'ils aient le maximum d'effet, mais aussi à d'autres points permettant l'excitation simultanée de plusieurs modes. J'ai dû trouver un compromis pour pouvoir exciter les 16 premières harmoniques, tout en étant limité par l'utilisation de seulement 5 électro-aimants. Placer un électro-aimant proche d'une extrémité de la corde n'a malheureusement pas fonctionné, l'inertie de la corde étant plus forte à cet endroit, même si potentiellement de nombreux modes auraient pu être excités.
 
 <p class="single-image">
   <img src="/assets/images/monochord_onlg_3_hor.png" />
 </p>
 
-La distance de chaque électro-aimant à la corde peut être ajustée, pour pouvoir les rapprocher le plus possible de celle-ci, sans qu'ils ne rentrent en contact (les premiers modes de vibrations étant plus important, leur amplitude l'est également).
+La distance de chaque électro-aimant à la corde peut être ajustée, pour pouvoir les rapprocher le plus possible de celle-ci, sans qu'ils ne rentrent en contact (les premiers modes de vibrations étant plus importants, leur amplitude l'est également).
 
 <p>&nbsp;</p>
 
@@ -132,23 +136,23 @@ La distance de chaque électro-aimant à la corde peut être ajustée, pour pouv
 Cet instrument permet de mettre en évidence de façon très concrète l'inharmonicité d'une corde.
 
 L'inharmonicité d'une corde s'observe dans le décalage entre la fréquence observée de ses harmoniques et la fréquence théorique issue de la série harmonique.
-Par example, si la corde est accordée précisemment à 128 Hz, on peut s'attendre à ce que la deuxième harmonique soit à 2 * 128 = 256 Hz. A cause de la façon dont la corde est fabriquée, et des proprietés physiques de ses matériaux, cette fréquence sera dans la pratique légèrement différente, de quelques centièmes de demi-ton.
+Par example, si la corde est accordée précisemment à 128 Hz, on peut s'attendre à ce que la deuxième harmonique soit à 2 * 128 = 256 Hz. A cause de la façon dont la corde est fabriquée, et des propriétés physiques de ses matériaux, cette fréquence sera dans la pratique légèrement différente, de quelques centièmes de demi-ton.
 
 Chaque harmonique a un potentiomètre dédié qui va décaler légèrement la fréquence de son signal MLI pour atteindre la valeur réelle de la corde.
 
-Le processus d'accord est intéressant car il permet d'entendre l'éloignement d'une harmonique par rapport à la série harmonique parfaite. Grâce à la résonance forcée induite par le champ électromagnétique, produisant des battements contre le mode naturel de résonance de la corde, et en se rapprochant progressivement, ces battements se réduisent jusqu'à ce que la fréquence parfaite soit atteinte, et que la corde rentre en résonance 'naturelle'.
+Le processus d'accord est intéressant car il permet d'entendre l'éloignement d'une harmonique par rapport à la série harmonique parfaite. Grâce à la résonance forcée induite par le champ électromagnétique produisant des battements contre le mode naturel de résonance de la corde, en se rapprochant progressivement, ces battements se réduisent jusqu'à ce que la fréquence parfaite soit atteinte, et que la corde rentre en résonance 'naturelle'.
 
-Désacorder la corde, ne serait-ce que de quelques centièmes de demi-ton a un impact très fort sur son inharmonicité. Je n'ai pas pu observer de pattern évident. De façon générale, après un accordage, la corde va mettre quelques minutes à se stabiliser. De plus, et comme on peut s'y attendre pour un instrument en bois, n'importe quel changement des conditions de température et d'humidité dans la pièce pourra s'observer sur l'inharmonicité, au travers du jeu du bois et du léger désaccord de la corde.
+Désaccorder la corde, ne serait-ce que de quelques centièmes de demi-ton a un impact très fort sur son inharmonicité. Je n'ai pas pu observer de motif évident. De façon générale, après un accordage, la corde va mettre quelques minutes à se stabiliser. De plus, et comme on peut s'y attendre pour un instrument en bois, n'importe quel changement des conditions de température et d'humidité dans la pièce pourra s'observer sur l'inharmonicité, au travers du jeu du bois et du léger désaccord de la corde.
 
 Du côté du circuit électronique, le système est calibré pour avoir une résolution d'accord toujours meilleure que le centième de demi-ton.
-Dans la pratique, cette résolution est inégale et varie selon la fréquence à cause de mode de fonctionnement du microcontroller. Le choix des 'prescalers' internes divisant l'horloge principale et la profondeur de bits des Timers imposent une résolution variable.
+Dans la pratique, cette résolution est inégale et varie selon la fréquence à cause de mode de fonctionnement du microcontrôleur. Le choix des 'prescalers' internes divisant l'horloge principale et la profondeur de bits des Timers imposent une résolution variable.
 
-Dans la version actuelle, les potentiomètres d'accord couvrent une plage de 10 centièmes de demi-ton (-5 .. +5) autour de la fréquence harmonique idéale. Pendant mes recherches, j'ai pu observer que les cordes de diamètre inférieur, ainsi que les cordes sans enroulement additionnel avaient tendence à être plus inharmoniques, des fois jusqu'à 40 centièmes de demi-ton. En choisissant spécialement une corde ayant une faible inharmonicité, j'ai pu réduire la plage des potentiomètres et améliorer leur précision.
+Dans la version actuelle, les potentiomètres d'accord couvrent une plage de 10 centièmes de demi-ton (-5 .. +5) autour de la fréquence harmonique idéale. Pendant mes recherches, j'ai pu observer que les cordes de diamètre inférieur, ainsi que les cordes sans enroulement additionnel avaient tendance à être plus inharmoniques, des fois jusqu'à 40 centièmes de demi-ton. En choisissant spécialement une corde ayant une faible inharmonicité, j'ai pu réduire la plage des potentiomètres et améliorer leur résolution.
 
-La corde en elle même peut être accordée grâce à deux chevilles, une pour un accordage grossier et une pour un accordage plus fin.
+La corde en elle même peut être accordée grâce à deux chevilles, une pour un accordage initial et une pour un accordage plus fin.
 
 <p class="single-image-80">
   <img src="/assets/images/monochord_10.png" />
 </p>
 
-L'instrument fonctionne avec une batterie externe 15V / Adaptateur secteur.
+L'instrument fonctionne avec une batterie externe 15V / adaptateur secteur.
