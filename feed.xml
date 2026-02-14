@@ -1,4 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2024-12-01T23:04:35+01:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry xml:lang="en"><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html"><![CDATA[<p>A few years ago I started building a Viola da Gamba under the guidance of <a href="https://www.liedmeier.nl/home">Gesina Liedmeier</a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://www.clementdestephen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.clementdestephen.com/" rel="alternate" type="text/html" /><updated>2026-02-12T22:25:53+01:00</updated><id>https://www.clementdestephen.com/feed.xml</id><title type="html">Home</title><subtitle></subtitle><entry xml:lang="en"><title type="html">Harmonic Monochord Techniques</title><link href="https://www.clementdestephen.com/sounds/2026/02/07/harmonic-monochord-techniques.html" rel="alternate" type="text/html" title="Harmonic Monochord Techniques" /><published>2026-02-07T06:00:00+01:00</published><updated>2026-02-07T06:00:00+01:00</updated><id>https://www.clementdestephen.com/sounds/2026/02/07/harmonic-monochord-techniques</id><content type="html" xml:base="https://www.clementdestephen.com/sounds/2026/02/07/harmonic-monochord-techniques.html"><![CDATA[<style>
+    .single-image {
+        width: 100%;  
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .single-image-80 {
+        width: 80%;  
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+
+<p><img src="/assets/images/monochord_techniques.png" alt="alt text" title="monochord techniques" /></p>
+
+<p>&nbsp;</p>
+
+<h3 id="tuning-the-monochord">Tuning the monochord</h3>
+
+<p>The process of tuning itself is to worth to be explored. Tuning (or more exactly detuning) the pwm signals to match the actual (in)harmonic frequencies of the string produces various beatings and extra harmonics.</p>
+
+<p><br /></p>
+<audio src="/assets/sounds/techniques/tuning_0.aif" controls="" preload="metadata"></audio>
+<!-- <audio src="/assets/sounds/techniques/tuning_1.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/tuning_2.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/tuning_3.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/tuning_4.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/tuning_5.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/tuning_6.aif" controls preload="metadata"></audio> -->
+
+<p><br /></p>
+
+<h3 id="natural-harmonics">Natural harmonics</h3>
+
+<p>Using the technique of natural harmonics, which consists in lightly touching the string with a fingertip at certains nodes and/or antinodes combines well with the “standard” way of playing the harmonic monochord.
+Certain harmonics can be muted, bringing the focus on other ones.</p>
+
+<p>If the fingertip enters in contact with the vibrating string quickly enough, then an interesting buzzing effect appears.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/fingers_1_clean.aif" controls></audio>
+<audio src="/assets/sounds/techniques/fingers_3_clean.aif" controls></audio>
+<audio src="/assets/sounds/techniques/fingers_4_clean.aif" controls></audio>
+<audio src="/assets/sounds/techniques/fingers_5_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/fingers_6.aif" controls preload="metadata"></audio>
+<br> -->
+
+<h3 id="direct-use-of-fingers-on-the-string-to-mute-the-sound">Direct use of fingers on the string to mute the sound</h3>
+
+<p>The string vibration can also be abruptly stopped by pressing the finger completely onto the string until complete extinction of the sound. If the EM excitation is maintained, the release of the finger will free the build-up of the string resonance again. This technique can be use for a quicker control over the sound amplitude.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/ss_1_clean.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/ss_2_clean.mp3" controls></audio>
+<br> -->
+
+<h3 id="change-ringing-patterns">Change ringing patterns</h3>
+
+<p>The natural long release of the harmonics, especially in the higher register, gives to the sound a bell-like character. Experimenting with alternating patterns in a style reminiscent of change-ringing is part of the possible directions for sound exploration.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/change_1_clean.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/change_2_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/change_3_clean.mp3" controls></audio>
+<br> -->
+
+<h3 id="octaves">Octaves</h3>
+
+<p>As one would expect, playing any pair of harmonics in a ratio of 2/1 will result in a sort of amplitude modulation effect, which can be altered and used for musical purposes either by playing with the volume or slightly detuning one or both harmonics of the pair.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/octaves_1_clean.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/octaces_2_clean.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/octaves_3.aif" controls preload="metadata"></audio>
+<br> -->
+
+<h3 id="high-pitched-harmonics">High pitched harmonics</h3>
+
+<p>Higher harmonics being closer to each other (for instance the region between the harmonic #12 and #16) combine especially well and create interesting beating effects when played in polyphony.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/vhf_1_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/vhf_2_clean.aif" controls></audio>
+<audio src="/assets/sounds/techniques/vhf_3_clean.mp3" controls></audio>
+<br> -->
+
+<h3 id="extra-ringing">Extra ringing</h3>
+
+<p>Certain combination of harmonics create additional resonances in the high-end of the spectrum. This might be due to non-linearities (tbc). This effect is musically very interesting and adds another dimension too the sound.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/ringing_1_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/ringing_2_clean.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/ringing_3_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/ringing_4_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/ringing_5_clean.mp3" controls></audio>
+<audio src="/assets/sounds/techniques/ringing_6_clean.aif" controls preload="metadata"></audio>
+<br> -->
+
+<h3 id="open-melodic-work">Open melodic work</h3>
+
+<p>Finally, here are 3 small exemples of open-ended explorations, tending to be a bit more on the melodic/narrative side.</p>
+
+<!-- <br>
+<audio src="/assets/sounds/techniques/melodic_1_clean.aif" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/melodic_2_clean.mp3" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/melodic_3_clean.mp3" controls preload="metadata"></audio>
+<audio src="/assets/sounds/techniques/melodic_4_clean.mp3" controls preload="metadata"></audio>
+<br> -->]]></content><author><name></name></author><category term="sounds" /><summary type="html"><![CDATA[]]></summary></entry><entry xml:lang="en"><title type="html">Alto Viola da Gamba</title><link href="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html" rel="alternate" type="text/html" title="Alto Viola da Gamba" /><published>2022-09-11T00:00:00+02:00</published><updated>2022-09-11T00:00:00+02:00</updated><id>https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba</id><content type="html" xml:base="https://www.clementdestephen.com/instrument/building/2022/09/11/viola-da-gamba.html"><![CDATA[<p>A few years ago I started building a Viola da Gamba under the guidance of <a href="https://www.liedmeier.nl/home">Gesina Liedmeier</a>.</p>
 
 <p>The original model is from a 1629 Alto viola from the renowned british maker Henry Jaye.</p>
 
@@ -24,6 +132,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -325,6 +439,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>According to its dimensions, it could also be considered a big Treble viola.</p>
@@ -353,6 +533,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -654,6 +840,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>Parallelly, the wood plates for the top (3 pieces) and the back (2 pieces) were cut to dimensions and planed. Spruce is used for the top plate and flamed maple for the back plate, as well as for the ribs.</p>
@@ -680,6 +932,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -971,6 +1229,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>There are various techniques to give the front plate its shape, according to the time in history and countries. For this model, I first pre-bent the 3 plates and then proceeded with carving. Wood bending can be done in different ways, sometimes involving boiling the wood pieces in water or just bringing them to a higher temperature.</p>
@@ -997,6 +1321,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -1298,6 +1628,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>Glueing the pieces together is made with a special mixture of hide/fish glue.</p>
@@ -1326,6 +1722,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -1627,6 +2029,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>The C-holes are carved with knives, and the inside of the top plate is also carved. At that point a small accident happened and I got an insight into restoration techniques.</p>
@@ -1653,6 +2121,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -1954,6 +2428,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>The back plate has additional reinforcing bars which are influencing its strength and flexibility.</p>
@@ -1980,6 +2520,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -2281,6 +2827,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>The ribs are then prepared and dry-bent with a bending iron. The shape has to match exactly the one from the template, which makes it an especially challenging but also very rewarding process. While bending the wood, one must beware of maintening the right humidity level else it just cracks!</p>
@@ -2307,6 +2919,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -2608,6 +3226,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>The neck/head is then carefully assembed to the ribs. Its overall alignment is crucial for the instrument’s quality.</p>
@@ -2634,6 +3318,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -2925,6 +3615,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>After adding the bassbar to the back of the front plate, which is going to participate in the mechanism of propagating the bridge vibrations to the rest of the body, some linen cloth bands are added inside the box to make the structure stronger.</p>
@@ -2951,6 +3707,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -3252,6 +4014,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>Finally, the front is glued in place.</p>
@@ -3278,6 +4106,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -3579,6 +4413,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>The fingerboard and tailpiece are then prepared. Again, the exact curvature has to be attained, which is a work of patience and precision.</p>
@@ -3605,6 +4505,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -3906,6 +4812,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>The black line underlining the top plate’s outline is added (the purflings) :</p>
@@ -3932,6 +4904,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -4213,6 +5191,72 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
 </ul>
 
 <p>&nbsp;</p>
@@ -4243,6 +5287,12 @@
 </style>
 
 <ul class="image-gallery">
+    
+        
+    
+        
+    
+        
     
         
     
@@ -4578,6 +5628,72 @@
                     </a>
                 </li>
             
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
         
     
         
