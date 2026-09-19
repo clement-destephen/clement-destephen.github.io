@@ -2,22 +2,27 @@
 var t=1200; 
 
 function refresh(referenceWidth, referenceHeight, drawFunction) {
-    const c = document.getElementById("canvas");
-    c.width = c.clientWidth;
-    c.height = c.clientHeight;
+        const c = document.getElementById("canvas");
+
+        if (!c) {
+                return;
+        }
+
+        c.width = c.clientWidth;
+        c.height = c.clientHeight;
   
-    const ratio = Math.min(
-      c.width / referenceWidth,
-      c.height / referenceHeight
-    );
-    const ctx = c.getContext("2d");
-    ctx.scale(ratio, ratio);
+        const ratio = Math.min(
+            c.width / referenceWidth,
+            c.height / referenceHeight
+        );
+        const ctx = c.getContext("2d");
+        ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
   
-    drawFunction(c, ctx, ratio);
-    window.requestAnimationFrame(() => {
-      refresh(referenceWidth, referenceHeight, drawFunction);
-    });
-  }
+        drawFunction(c, ctx, ratio);
+        window.requestAnimationFrame(() => {
+            refresh(referenceWidth, referenceHeight, drawFunction);
+        });
+    }
 
 function calcSineY( w, h, x, f, amp ) {
     // h is the amplitude of the wave
@@ -122,6 +127,7 @@ var interval = setInterval(function(){
     10 // Loop every 10 milliseconds 
 ); 
 
+if (document.getElementById("canvas")) {
 refresh(100, 100, (c, ctx, ratio) => {
 
 
@@ -148,3 +154,4 @@ refresh(100, 100, (c, ctx, ratio) => {
     }
         
 });
+}
